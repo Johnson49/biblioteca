@@ -5,13 +5,15 @@
 </p>
 
 ## Quem somos?
-A **DrD2 Infinite Comunnity** é um projeto open source feito por juniors com objetivo de adquirir experiências reais com projetos próximos de algo profissional. Além disso, aqui você aprender novas tecnologias, faz novos amigos e aprimora suas hard e soft skills.
+A **DrD2 Infinite Community** é um projeto open source feito por juniors com o objetivo de adquirir experiências reais com projetos próximos de algo profissional. Além disso, aqui você aprende, ensina, faz novos amigos e aprimora suas hard e soft skills.
 
 ## O que vamos desenvolver? 
 
 O nosso foco está na criação de uma plataforma de vídeo. Como o Youtube? Presumo que seja isso que venho na sua mente agora. A essência é mais ou menos essa, mas temos o objetivo de nós distinguir desenvolvendo um produto novo e não uma cópia de qualquer plataforma que seja. Apesar de tudo isso, temos plena consciência dos desafios. Aliás, é bom informar que não queremos fazer um Vimeo ou Youtube da vida, estamos construindo algo simples dando um passo de cada vez. 
 
-Portanto, este projeto proporcionará um processo rico em conteúdo e aprendizado e ainda você poderá, talvez, se envolver na construção de uma possível concorrente do Youtube no futuro, nada é impossível, não é mesmo?  <img width="170px" height="170px" align="right"  src="https://github.com/Johnson49/biblioteca/blob/main/dino-girl.png">
+Portanto, este projeto proporcionará um processo rico em conteúdo e aprendizado para todos os envolvidos e ainda vai servir para dá aquele **UP** no currículo ou impressionar aquele recrutador.
+
+<img width="170px" height="170px" align="right"  src="https://github.com/Johnson49/biblioteca/blob/main/dino-girl.png">
 
 <br>
 <br>
@@ -37,7 +39,7 @@ Toda a comunidade da **DrD2 Infinite Community** está empenhada em promover um 
 
 &nbsp; &nbsp; &nbsp; &nbsp; 3.	Converse com os responsáveis e combine sua entrada nos times.
 
-&nbsp; &nbsp; &nbsp; &nbsp; 4.	Vale ressaltar que para poder enviar mensagens nos canais específicos do projeto, bem como poder ser mencionado pelos demais integrantes, passe no canal `🛠-tag` o cargo de membro do projeto correspondente.
+&nbsp; &nbsp; &nbsp; &nbsp; 4.	Vale ressaltar que para poder enviar mensagens nos canais específicos do projeto, bem como poder ser mencionado pelos demais integrantes, passe no canal `🛠-tag` e escolha o cargo de membro do projeto correspondente.
 
 
 
