@@ -4,9 +4,11 @@
 
 Hoje como iniciante, podemos não ver a importância disso mas, sempre é bom já comerçamos a praticar boas práticas o quanto antes. Quando você começar a trabalhar em uma equipe numa empresa, cada pessoa vai ficar responsável por alguma coisa num mesmo projeto, já pensou se alguém faz alguma modificação e você quer entender o que ela fez e não não sabe por onde começar? Com os commits padronizados você consegue navegar por essas modificações e faz o trabalho ser mais produtivo.
 
+
+
 ## Legal, mas como isso vai funcionar? 
 
-### Abaixo está as tags e a descrição do que deve ser usado em cada contexto:
+### Abaixo estão as tags que representam um tipo de ação e uma breve descrição em qual contexto usar
 
 * **feat**: uma nova feature (recurso) que você está adicionando a uma aplicação específica.
 
@@ -26,7 +28,7 @@ Hoje como iniciante, podemos não ver a importância disso mas, sempre é bom j�
 
 * **ci** : Commits do tipo ci indicam mudanças relacionadas a integração contínua (continuous integration)
 
-### Quanto aos Ccomentários
+### Quanto aos Comentários
 
 A descrição, juntamente com o tipo, é uma das partes mais importantes do padrão: é aqui que deve ser descrito, de maneira clara, sucinta e simplificada, o que foi realizado no commit. É recomendado que essa parte tenha, no máximo, 70 caracteres, para que não se estenda muito. 
 
@@ -34,9 +36,16 @@ A descrição, juntamente com o tipo, é uma das partes mais importantes do padr
 
 ### Uma coisa que seria legal aplicar é o: Escopo
 
-O escopo do commit é uma parte opcional, curta e de fácil compreensão.  É nela que iremos dizer qual parte do código foi modificada, como indicar que fizemos alterações apenas na camada de controller de uma API. 
+O escopo do commit é uma parte opcional, curta e de fácil compreensão.  É nela que iremos dizer qual parte do código foi modificada, como indicar que fizemos alterações apenas na camada de controller de uma API. Um adendo, se o seu commit já é claro o bastante sobre o que foi modificado, o uso do escopo é dispensável.
 
 **Exemplo**:	`♻️ refactor(user.controller): modificando os endpoints`
+
+## ☑️ Recomendações
+
+- Para descrever com detalhes, usar a descrição do commit;
+- Usar um emoji no início da mensagem de commit representando sobre o commit;
+- Utilizar o escopo junto com as tags (Lembrado: se o seu commit já é claro o bastante sobre o que foi modificado, o uso do escopo é dispensável.)
+- Um link precisa ser adicionado em sua forma mais autêntica, ou seja: sem encurtadores de link e links afiliados;
 
 ## O que são esses emojis nos commits ?
 
