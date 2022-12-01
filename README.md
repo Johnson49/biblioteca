@@ -36,7 +36,7 @@ A descrição, juntamente com o tipo, é uma das partes mais importantes do padr
 
 ### Uma coisa que seria legal aplicar é o: Escopo
 
-O escopo do commit é uma parte opcional, curta e de fácil compreensão.  É nela que iremos dizer qual parte do código foi modificada, como indicar que fizemos alterações apenas na camada de controller de uma API. Um adendo, se o seu commit já é claro o bastante sobre o que foi modificado, o uso do escopo é dispensável.
+O escopo do commit é uma parte opcional, curta e de fácil compreensão.  É nela que iremos dizer qual parte do código foi modificada, como indicar que fizemos alterações apenas na camada de controller de uma API. **Um adendo, se o seu commit já é claro o bastante sobre o que foi modificado, o uso do escopo é dispensável.**
 
 **Exemplo**:	`♻️ refactor(user.controller): modificando os endpoints`
 
@@ -44,7 +44,7 @@ O escopo do commit é uma parte opcional, curta e de fácil compreensão.  É ne
 
 - Para descrever com detalhes, usar a descrição do commit;
 - Usar um emoji no início da mensagem de commit representando sobre o commit;
-- Utilizar o escopo junto com as tags (Lembrado: se o seu commit já é claro o bastante sobre o que foi modificado, o uso do escopo é dispensável.)
+- Utilizar o escopo junto com as tags (**Lembrado**: se o seu commit já é claro o bastante sobre o que foi modificado, o uso do escopo é dispensável.)
 - Um link precisa ser adicionado em sua forma mais autêntica, ou seja: sem encurtadores de link e links afiliados;
 
 ## O que são esses emojis nos commits ?
