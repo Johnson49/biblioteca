@@ -11,7 +11,7 @@ A **DrD2 Infinite Comunnity** é um projeto open source feito por juniors com ob
 
 O nosso foco está na criação de uma plataforma de vídeo. Como o Youtube? Presumo que seja isso que venho na sua mente agora. A essência é mais ou menos essa, mas temos o objetivo de nós distinguir desenvolvendo um produto novo e não uma cópia de qualquer plataforma que seja. Apesar de tudo isso, temos plena consciência dos desafios. Aliás, é bom informar que não queremos fazer um Vimeo ou Youtube da vida, estamos construindo algo simples dando um passo de cada vez. 
 
-Portanto, este projeto proporcionará um processo rico em conteúdo e aprendizado e ainda você poderá, talvez, se envolver na construção de uma possível concorrente do Youtube no futuro, o que acha?  <img width="170px" height="170px" align="right"  src="https://github.com/Johnson49/biblioteca/blob/main/dino-girl.png">
+Portanto, este projeto proporcionará um processo rico em conteúdo e aprendizado e ainda você poderá, talvez, se envolver na construção de uma possível concorrente do Youtube no futuro, nada é impossível, não é mesmo?  <img width="170px" height="170px" align="right"  src="https://github.com/Johnson49/biblioteca/blob/main/dino-girl.png">
 
 <br>
 <br>
