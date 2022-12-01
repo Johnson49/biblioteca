@@ -6,7 +6,7 @@ Hoje como iniciante, podemos não ver a importância disso mas, sempre é bom j�
 
 ## Legal, mas como isso vai funcionar? 
 
-### Abaixo está a descrição do que deve ser usado em cada contexto:
+### Abaixo está as tags e a descrição do que deve ser usado em cada contexto:
 
 * **feat**: uma nova feature (recurso) que você está adicionando a uma aplicação específica.
 
@@ -26,13 +26,13 @@ Hoje como iniciante, podemos não ver a importância disso mas, sempre é bom j�
 
 * **ci** : Commits do tipo ci indicam mudanças relacionadas a integração contínua (continuous integration)
 
-### Comentário 
+### Quanto aos Ccomentários
 
 A descrição, juntamente com o tipo, é uma das partes mais importantes do padrão: é aqui que deve ser descrito, de maneira clara, sucinta e simplificada, o que foi realizado no commit. É recomendado que essa parte tenha, no máximo, 70 caracteres, para que não se estenda muito. 
 
 **Exemplo**: ` ✨ feat: adicionando API para cadastro de usuários`
 
-### Escopo
+### Uma coisa que seria legal aplicar é o: Escopo
 
 O escopo do commit é uma parte opcional, curta e de fácil compreensão.  É nela que iremos dizer qual parte do código foi modificada, como indicar que fizemos alterações apenas na camada de controller de uma API. 
 
